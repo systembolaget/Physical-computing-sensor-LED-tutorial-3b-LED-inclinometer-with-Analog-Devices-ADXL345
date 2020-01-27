@@ -1,6 +1,6 @@
 # Physical computing sensor LED tutorial - LED spirit level with Analog Devices ADXL345
 
-Interactive spirit level or seesaw. How to tune and read a sensor, stabilised with an exponential moving average, then driving an RGB LED strip
+Interactive spirit level or seesaw. How to tune and read a sensor, reduce its output noise with an exponential moving average, and then driving an RGB LED strip from pitch and roll
 
 ### Result
 
