@@ -126,7 +126,6 @@ void calculateAngle()
 
   // Calculate roll and pitch angles where pitch = rotation around
   // y-axis and roll = rotation around x-axis
-
   float roll = atan2(yCal, zCal) * 180 / M_PI;
   float pitch = atan2(-xCal, sqrt(yCal * yCal + zCal * zCal)) * 180 / M_PI;
 
