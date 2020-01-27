@@ -33,6 +33,7 @@ Interactive spirit level or seesaw. How to tune and read a sensor, reduce its ou
 μc https://www.adafruit.com/product/2590  
 Sensor https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf  
 Sensor calibration https://www.analog.com/media/en/technical-documentation/application-notes/AN-1057.pdf  
+EMA https://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average  
 LED strip https://learn.adafruit.com/adafruit-dotstar-leds  
 LED library https://github.com/FastLED/FastLED (see also Wiki pages)  
  
