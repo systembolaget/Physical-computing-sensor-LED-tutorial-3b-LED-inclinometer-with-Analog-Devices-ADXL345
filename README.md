@@ -26,7 +26,6 @@ Interactive spirit level or seesaw. How to tune and read a sensor, stabilised wi
 •	€  1,00 1000 µF 10V el. cap, 330Ω resistor
 •	€ 15,00 MEANWELL GST60A05-P1J PSU
 •	€ 90,00
-
 </pre>  
 
 ### Useful links  
