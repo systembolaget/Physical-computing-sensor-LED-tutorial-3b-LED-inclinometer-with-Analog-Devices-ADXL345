@@ -12,7 +12,7 @@ Interactive spirit level or seesaw. How to tune and read a sensor, stabilised wi
 
 ### Excel xyz value averaging or "calibration"
 
-![](Assets/3b%20calibration%203.png)
+![](Assets/3b%20calibration.png)
 
 ### BOM
 
