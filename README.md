@@ -1,6 +1,6 @@
 # Physical computing sensor LED tutorial - LED spirit level with Analog Devices ADXL345
 
-Spirit level or seesaw. How to calibrate and read a sensor, stabilised with an exponential moving average, making an interactive RGB LED strip
+Interactive spirit level or seesaw. How to tune and read a sensor, stabilised with an exponential moving average, then driving an RGB LED strip
 
 ### Result
 
