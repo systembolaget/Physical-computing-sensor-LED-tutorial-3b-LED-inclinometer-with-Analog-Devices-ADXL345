@@ -1,6 +1,6 @@
-# Physical computing sensor LED tutorial - LED spirit level with Analog Devices ADXL345
+# Physical computing sensor LED tutorial - LED inclinometer with Analog Devices ADXL345
 
-Interactive spirit level or seesaw. How to tune and read a sensor, reduce its output noise with an exponential moving average, and then driving an RGB LED strip from pitch and roll
+Interactive spirit level or swell meter. How to calibrate, read and de-noise an accelerometer; driving an LED strip with Arduino and FastLED
 
 ### Result
 
