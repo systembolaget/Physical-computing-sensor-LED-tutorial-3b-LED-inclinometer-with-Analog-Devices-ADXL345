@@ -90,11 +90,11 @@ void loop()
 
   // Sets the leading LED's hue
   leds[ledPosition] = CHSV(ledHue, 255, 255);
-  // Set some LEDs as 0°, 45° and 90° markers
-  leds[0] = CRGB::Azure; leds[36] = CRGB::Azure; leds[72] = CRGB::Azure; leds[108] = CRGB::Azure; leds[143] = CRGB::Azure;
+  // Set LEDs as 0°, 45° and 90° markers; no array, I was too lazy ; )
+  leds[0] = CRGB::Azure; leds[36] = CRGB::Azure; leds[71] = CRGB::Azure; leds[72] = CRGB::Azure; leds[108] = CRGB::Azure; leds[143] = CRGB::Azure;
   // Display all LED's data (= illuminate the LED strip)
   FastLED.show();
-  // Generate a short trail behind the leading LED
+  // Generate a short tail behind the leading LED
   for (int i = 0; i < numLeds; i++)
   {
     leds[i].fadeToBlackBy(32);
