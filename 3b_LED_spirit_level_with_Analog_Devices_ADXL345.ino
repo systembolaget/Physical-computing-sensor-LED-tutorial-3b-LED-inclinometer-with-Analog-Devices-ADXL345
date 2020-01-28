@@ -90,7 +90,7 @@ void loop()
 
   // Sets the leading LED's hue and brightness
   leds[ledPosition] = CHSV(ledHue, 255, 255);
-  // Set 0°, 45° and 90° marker LEDs
+  // Set 0°, 45° and 90° marker LEDs; no array, I was too lazy ; )
   leds[0] = CRGB::Azure; leds[36] = CRGB::Azure; leds[71] = CRGB::Azure; leds[72] = CRGB::Azure; leds[108] = CRGB::Azure; leds[143] = CRGB::Azure;
   // Display all LED's data (= illuminate the LED strip)
   FastLED.show();
