@@ -14,6 +14,10 @@ Interactive spirit level or swell meter. How to calibrate, read and de-noise an 
 
 ![](Assets/3b%20calibration.png)
 
+### Excel checking de-noising after exponential moving average
+
+![](Assets/3b%20ema.png)
+
 ### BOM
 
 <pre>
