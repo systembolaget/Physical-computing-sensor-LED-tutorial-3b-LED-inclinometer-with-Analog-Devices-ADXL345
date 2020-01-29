@@ -21,15 +21,15 @@ Interactive spirit level or swell meter. How to calibrate, read and de-noise an 
 ### BOM
 
 <pre>
-•	€ 14,00 Adafruit Metro Mini 328 5V 16MHz microcontroller
-•	€ 19,00 Adafruit ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g)
-•	€ 35,00 APA102C 144 RGB LED strip
-•	€  4,00 Half-size transparent breadboard
-•	€  1,00 Jumper cables
-•	€  1,00 2,1mm DC barrel-jack
-•	€  1,00 1000 µF 10V el. cap, 330Ω resistor
-•	€ 15,00 MEANWELL GST60A05-P1J PSU
-•	€ 90,00
+€ 14,00 Adafruit Metro Mini 328 5V 16MHz microcontroller
+€ 19,00 Adafruit ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g)
+€ 35,00 APA102C 144 RGB LED strip
+€  4,00 Half-size transparent breadboard
+€  1,00 Jumper cables
+€  1,00 2,1mm DC barrel-jack
+€  1,00 1000 µF 10V el. cap, 330Ω resistor
+€ 15,00 MEANWELL GST60A05-P1J PSU
+€ 90,00
 </pre>  
 
 ### Useful links  
