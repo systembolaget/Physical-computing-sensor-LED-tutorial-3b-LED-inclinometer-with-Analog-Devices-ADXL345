@@ -10,13 +10,13 @@ Interactive spirit level or swell meter. How to calibrate, read and de-noise an 
 
 ![](Assets/3b%20schematic.png)
 
-### Excel xyz value averaging for "calibration"
+### Excel six-point-tumble xyz value averaging
 
-![](Assets/3b%20calibration.png)
+![](Assets/3b%20six%20point%20tumble.png)
 
-### De-noised output after exponential moving average
+### De-noised output via exponential moving average
 
-![](Assets/3b%20ema.png)
+![](Assets/3b%20EMA.png)
 
 ### BOM
 
