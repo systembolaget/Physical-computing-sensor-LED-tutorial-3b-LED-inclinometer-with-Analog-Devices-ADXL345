@@ -2,9 +2,11 @@
 
 Interactive spirit level or swell meter. How to calibrate, read and de-noise an accelerometer; driving an LED strip with Arduino and FastLED
 
-### Result
+### Setup
 
-![](Assets/3b%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/3b%20result.jpg)](https://www.youtube.com/watch?v=v2gvWARR1lA)
 
 ### Schematic
 
